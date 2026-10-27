@@ -42,5 +42,3 @@ It does not contain actual bank or customer information.
 Recommendations will be proposals, not implemented changes.
 No business impact will be claimed without supporting evidence.
 
-## Project Status
-In progress: defining the business problem and project scope.
